@@ -660,3 +660,119 @@ Store two copies on different devices
 Keep atleast one copy backup off site
 - In a large scale disaster, there may be severe site damage
 - This should be as far as possible from the source location
+
+
+### Disaster Recovery Plan
+#DisasterRecovery
+
+A disaster recovery plan (DRP) is a documented, structured approach that describes how an organisation should respond to a disaster
+- Outlines who is in charge of what
+- What individuals/teams should do to get back to normal operating capacity
+- How to minimise the impact of the disaster on the business
+
+It forms part of a BCP - Business Continuity Planning
+
+
+### Intrusion Detection Systems
+#IntrusionDetectionSystems 
+- Intrusion detection system (IDS) are software (Or Hardware) tools that monitor networks and look for malicious activity
+- If malicious activity is found, a notification is issued to the system administrators for them to review
+- Works in a similar way to anti-virus software (uses known previous attacks) to identify possible attacks
+- Does not perform any actions by itself
+- This is considered a **reactive** solution
+
+
+### Intrusion Prevention Systems
+#IntrusionPreventionSystems
+- Intrusion prevention systems (IPS) are very similar to IDS
+- The major difference between an IDS and IPS take automated actions when events are detected
+	- Helps to prevent DDoS attacks, Worms, Viruses, etc
+- This is considered a **proactive** solution
+
+
+### Security Operations Centre
+#SecurityOperationsCentre
+Security Operations Centre (SOC) is a faculty that houses a security team responsible for monitoring and assessing an organisation's security posture
+
+SOCs are typically only run by large companies as they're very expensive and resource intensive
+
+Smaller organisations have the option of outsourcing their SOC needs to third parties
+- Some organisations run a single SOC with a large 24/7 team handling many clients
+- Expertise and industry oversight gives them greater ability
+
+
+
+## Personal Protection
+#PersonalProtection
+### Personal Security
+#PersonalSecurity
+**Password Managers**
+- A quick survey showed more than 3/4 of people reused passwords
+- Reused passwords are bad
+- Password managers let users generate strong, completely random passwords and provides a single location for all accounts
+
+**Two-Factor Authentication**
+- 2FA requires user to provide "something they have" as well as a password
+- Various forms of 2FA exist
+	- SMS
+	- Application based 2FA
+
+### Identity Theft
+#IdentityTheft
+- Identity theft is one of the most damaging online attacks that can be performed against an individual
+- It can be done by someone who has never been in contact with you - even from the other side of the world
+- Be aware of how much information you make public about yourself
+- Remember - The internet never forgets
+
+### Hackers use public Wi-Fi to steal your identity
+#MITM #Evil-Twin #PacketSniffing #Sidejacking #ShoulderSurfing 
+**Man in the Middle**
+- A third party intercepts communications between two participants
+- Public Wi-Fi might not be encrypted. Sites like PayPal, eBay and Amazon employ their own encryption techniques
+- HTTPS addresses
+
+
+**Evil-Twin Attacks**
+- Fake Wi-Fi connections
+- It's fairly easy to setup a fake Access Point
+- Check for two similarly-named network connections
+- Use VPN - Potential intercepted data is unreadable by a hacker without the correct decryption key
+
+
+**Packet-Surfing**
+- Listens to the communication channel and reads data packets
+- Ethical Hacking - finding security threats and vulnerabilities that need patching. E.g. using free software like Wireshark - Can also be useful for cyber criminals
+- Invest in a VPN and make sure sites requiring private information have SSL/TSL certificates
+
+
+**Sidejacking**
+- Hackers can hijack your session and gain access to any private accounts you're logged into
+- Relies on obtaining information via packet sniffing
+- Hacker use it on-location, in real-time
+- Use VPN and always log out when you're leaving a hotspot
+
+
+**Shoulder-Surfing**
+- This might seem obvious, but we often forget these sort of simple security measures
+- Be vigilant. Know who's around you
+
+### Browsing
+#Browsing
+Use private browsing
+- Prevents your web browser from saving your browser history
+
+### Emails and Links
+#Emails #Links
+- Check emails and email headers to validate emails
+
+- Check links before clicking them
+- Be careful of URL shorteners
+
+### Certification
+#Certification
+- As an individual you can seek further qualifications that are specialised for a particular role
+- Some common ones are:
+	- CISSP - Certified Information Systems Security Professional
+	- OSCP - Offensive Security Certified Professional
+	- CompTIA - Computing Technology Industry Association
+	- CCNA - Cisco Certified Network Associate
