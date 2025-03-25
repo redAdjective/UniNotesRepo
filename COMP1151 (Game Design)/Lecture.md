@@ -381,3 +381,86 @@ Many games use movement through space to control time. Don't think of the buildi
 **Goals:**
 - Complete each level by "thinking with portals"
 - Kill GLaDOS and escape
+
+---
+# Player Motivations
+#PlayerMotivations
+
+Need Satisfaction as a player experience model
+- Self-Determination Theory
+- PENS (Player experience of need satisfaction)
+
+## Self-Determination Theory
+#SDT
+SDT says that we are motivated to engage with any activity to satisfy psychological needs of:
+- Autonomy: Freedom to make meaningful choices
+- Competence: Effectively demonstrating skills
+- Relatedness: Feeling connected to others
+
+## Player Experience of Need Satisfaction
+#PENS 
+PENS adds the following as a core components of the player experience:
+- Presence: Feeling transported into the game or another space with the game
+- Mastery of/Intuitive Controls: Controls can support or block satisfaction of other factors
+
+
+## Player Typologies
+#Typology
+Historic
+- [[Bartle's Player Types (MUDs)]]
+- [[Yee's Motivation Types]]
+
+Generalised Typologies - Type Model
+- [[Gamer Motivation Model]]
+- [[Player-Avatar Relationships]]
+- [[Hardcore vs Casual Player]]
+
+Generalised Typologies - Trait Model
+- DGD1 and Myers-Briggs
+- FFM and Player Satisfaction
+	Openness, conscientiousness, extraversion, agreeableness, neuroticism
+	Player Satisfaction
+
+- DGD1.5 and Hard vs Easy fun
+- DGD2 and Temperament Theory
+	Logistical, Tactical, Strategic, Diplomatic
+
+- [[BrainHex]]
+
+Specialised Typologies/Player Types
+Individual Level
+
+## Gender Play and identity exploration
+#Gender #Identity
+![[Gender Play and Identity Exploration.png]]
+
+
+## Pentagon Player Type Model
+#PentagonPlayerTypeModel
+- Challenger
+- Competitor
+- Team Player
+- Explorer
+- Autonomy Seeker
+
+![[Pentagon Player Model.png]]
+
+
+## Gamification profiles
+#Gamification
+We can evaluate player types for specific areas using personality instruments
+
+Designing Cyber Security training using Ten Item Personality Inventory (TIPI) and Big5 BFF and Portrait Value Questionnaire (PVQ)
+- Beneficence
+- Justice
+- Non-Maleficence
+- Autonomy
+- Explicability
+
+With this we can design games for those we are aiming to design for (model player) with confidence
+- McEwan et al., (2020) Puppy Island is tailored specific for young children with cystic fibrosis
+
+Or we can create experiences and know who our model players may be
+- This game is creating X experience, so we will likely satisfy players looking for X experience
+
+---
