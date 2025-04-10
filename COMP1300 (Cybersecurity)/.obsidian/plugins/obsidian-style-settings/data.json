@@ -1,6 +1,9 @@
 {
   "vauxhall@@main-color": "vauxhall-blue",
   "vauxhall@@color-intensity": "intensity-void",
+  "vauxhall@@h1-accent": false,
   "vauxhall@@header-color-type": "headers-gradient-blue-to-red",
-  "vauxhall@@h1-accent": false
+  "title@@vibrant": false,
+  "title@@dim-light-mode": false,
+  "title@@enable-mica": false
 }

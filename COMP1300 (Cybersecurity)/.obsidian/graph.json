@@ -5,8 +5,23 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:Lecture",
+      "color": {
+        "a": 1,
+        "rgb": 61183
+      }
+    },
+    {
+      "query": "file:SGTA",
+      "color": {
+        "a": 1,
+        "rgb": 16648971
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1577618694681004,
+  "scale": 0.1625728587960167,
   "close": true
 }
