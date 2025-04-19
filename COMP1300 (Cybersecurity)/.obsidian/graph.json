@@ -1,24 +1,38 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
+    {
+      "query": "tag:#SGTA",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#ISC2",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
     {
       "query": "file:Lecture",
       "color": {
         "a": 1,
-        "rgb": 61183
+        "rgb": 19711
       }
     },
     {
-      "query": "file:SGTA",
+      "query": "tag:#Methods",
       "color": {
         "a": 1,
-        "rgb": 16648971
+        "rgb": 57855
       }
     }
   ],
@@ -32,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1625728587960167,
+  "scale": 0.15612829141346404,
   "close": true
 }

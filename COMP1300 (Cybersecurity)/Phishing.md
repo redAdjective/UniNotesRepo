@@ -17,7 +17,7 @@ Phishing is a form of social engineering where attackers deceive people into rev
 # Spear Phishing
 #SpearPhishing
 
-E
+Spear phishing is a targeted phishing attack that uses emails, often appearing to be from a trusted source, to trick specific individuals or departments into revealing sensitive information or taking malicious actions
 
 ---
 # Whaling

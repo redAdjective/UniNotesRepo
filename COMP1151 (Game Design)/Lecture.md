@@ -464,3 +464,90 @@ Or we can create experiences and know who our model players may be
 - This game is creating X experience, so we will likely satisfy players looking for X experience
 
 ---
+# Challenge and Flow
+#Challenge #Flow 
+
+![[Experiential Learning.png]]
+
+![[Hill Climbing (1).png]]
+
+![[Hill Climbing (2).png]]
+
+## Challenging Skills
+What types of skill are you challenging?
+- Physical
+- Intellectual
+- Perceptual
+- Ethical
+- Emotional
+- Social
+
+## Trust
+#Trust
+- Flow relies upon the balance between easy and hard
+- It must be achievable but just beyond current level
+- If in the process of adjusting the level, you throw a curve ball, you disrupt the flow
+- Ensure you're still targeting the same type of skill you've conditioned the player to expect
+
+## Flow
+#Flow 
+- We learn best when we are operating in the outermost limits of our capability
+- Operating in this zone can be very enjoyable
+- Psychologist Mihaly Csikszentmihayli describes this experience as flow or "optimal experience"
+  
+- Features of the flow experience:
+	- A merging of action and awareness
+	- A sense of control
+	- Loss of self-consciousness
+	- Loss of awareness of time
+- Flow is a kind of immersion (But not the only kind)
+
+- Flow requires:
+	- Clear objectives
+	- Immediate feedback
+	- Freedom from distractions
+	- A match between skill and difficulty
+
+![[Flow.png]]
+
+![[Maintaining Flow.png]]
+
+## Attenuating Difficulty
+#Difficulty
+- Ways games modulate difficulty:
+	- Change the intrinsic difficulty of the task
+	- Give the player power
+	- Add stress (e.g. Time pressure, Danger)
+	- Add distractions (e.g. multiple simultaneous challenges)
+
+- Classic first person shooter
+- Skills:
+	- Aim
+	- Reaction Speed
+	- Dodging attacks
+	- Prioritising multiple enemies
+
+## Progression
+#Progression
+1. Stationary Medium Range Target
+	-  Practice aim
+2. Moving long range target
+	- Increase intrinsic difficulty
+3. Two medium range targets
+	- Practice aim with time pressure, prioritisation
+4. Short range target
+	- Dodging and aiming with danger
+5. Multiple medium and short range targets
+	- Added stress + distractions
+6. Rail gun
+	- Added Power
+
+## Matching Skill and Difficulty
+#Skill #Difficulty 
+- Temporal progression
+- Level Design - threshold challenges
+- Multiplayer match-making
+- Rubber-banding
+- Dynamic difficulty adjustment
+
+---

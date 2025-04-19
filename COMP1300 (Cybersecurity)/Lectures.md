@@ -776,3 +776,173 @@ Use private browsing
 	- OSCP - Offensive Security Certified Professional
 	- CompTIA - Computing Technology Industry Association
 	- CCNA - Cisco Certified Network Associate
+
+---
+# Ethical Theories
+#Ethics 
+- Many of the key problems and concepts of ethics go back to the time of the Greeks and the origins of Western Philosophy
+- Ethical theories are the rules and principles that determine right and wrong for a given situation
+- Traditional ethical theories are:
+	- Consequentialist (E.g. Utilitarianism)
+	- Non-Consequentialist (E.g. Deontology)
+
+![[Digital Ethics and Utilitarianism.png]]
+
+![[Digital Ethics and Deontology.png]]
+
+> A Utilitarian would always choose to hit the smallest number of people on the road - no matter who they are
+
+
+> The deontological rule for a self driving car might be to "always save the most lives that will contribute to the most overall good"
+
+
+# QR Codes, Privacy and Security (and COVID)
+#QRcodes #Privacy #Security 
+- In this era of COVID-19, we are all expected to check in to venues we visit using a QR code
+- The requirement is ubiquitous across the many parts of the globe including Australia
+
+- There are questions around the privacy and security issues, for example:
+	- Does the business owner have access to this data? or is it kept secure and deleted after the designated amount of days
+
+
+# Ethical Issues of Using AI in Recruitment
+#Issues
+
+- This goes beyond laws and regulations, such as the European Commission's GDPR and the Australian Privacy Act
+- AI recruitment tools have the potential to harm or unfairly disadvantage candidates, especially when they may not be aware of it.
+
+**Cyber-Snooping:**
+- There is a difference between what we can and should know about people, and that difference is a question of ethics
+
+**Withholding Feedback:**
+- AI - based credit scoring may seem creepy, such systems would be more ethical if:
+	- We understand the criteria
+	- We are willingly able to change our scores
+
+**Predicting biased outcomes:**
+- AI has been shown to perpetuate human biases
+
+**Black-Box selection:**
+- The degree to which AI algorithm explain why a candidate has potential for a given job (or not)
+
+
+# Cybersecurity Culture
+#CyberCulture 
+
+Difficult to define but indicators include:
+- Employees will think twice before clicking on a link
+- Will share and report suspicious emails
+- They won't go rogue
+- Will ask security for help when needed
+- Security is invited early on into projects
+- Business leadership has a decent understanding of risk
+
+
+Cybersecurity has changed in the following ways due to COVID-19:
+1. Working from home
+2. Meeting virtually
+3. Keeping data private
+4. Redefining culture
+5. Managing and Controlling transformation
+
+
+# The Regulatory Environment
+#Regulations
+
+The legal and regulatory framework of most importance for cybersecurity relate to privacy and breaches, for example:
+- As of May 2018, with the entry into application of the General Data Protection Regulations (GDPR), there is one set of data protection rules for all companies operating in the EU, wherever they are based (including Australia)
+- Australian Government agencies (and the Norfolk Island administration) and all business and not-for-profit organisations with an annual turnover more than $3 million have responsibilities under the Privacy Act, subject to some exceptions for protecting data.
+- USA Sarbanes Oxley Act 2002 (Cybersecurity relating to controls and financial statements)
+
+---
+# Regulatory Environment
+#Regulations 
+
+In the context of Cyber Governance, the regulatory environment is complex because organisations have to deal with different regulations across the globe. The regulations pertaining to data privacy are the most relevant in the context of cyber governance. Two regulations that are relevant are:
+- General Data Protection Regulation (GDPR) one set of data protection rules for all companies operating in the EU, wherever they are based (including Australia) (very complex legislation - this [blog](https://www.itgovernance.eu/blog/en/summary-of-the-gdprs-10-key-requirements) is helpful)
+- The Privacy Act 1988 is an Australian law which regulates the handling of personal information about individuals
+
+## Regulatory Environment (EU)
+#GDPR 
+
+General Data Protection Regulations (GDPR) one set of data protection rules for all companies operating in the EU, wherever they are based (including Australia)
+
+Cybersecurity Act EU Member States - The law came into effect on 25 May 2018. The new law requires firms running "essential" services, including water, energy, transport, health and banking operations, to inform national authorities if they are hit with serious cybersecurity breaches. Providers of cloud computing services, search engines and online marketplaces will also need to report those incidents
+
+Companies will face fines if they don't report breaches
+
+EU countries are moving to enforce the law at different paces
+
+Draft legislation, known as the cybersecurity act, will give the bloc's cybersecurity agency ENISA more money and power, and create an EU-wide system for certifying the security level of internet-connected devices
+
+
+## Regulatory Environment (Australia)
+#PrivacyAct
+
+The Privacy Act 1988 is an Australian law which regulates the handling of personal information about individuals.
+
+The Privacy Act includes thirteen Australian Privacy Principles (APPs). The APPs set out standards, rights and obligations for the handling, holding, use, accessing and correction of personal information (Including sensitive information)
+
+[Notifiable Data Breaches Statistics](https://www.oaic.gov.au/privacy/notifiable-data-breaches/notifiable-data-breaches-statistics/)
+
+
+## Governance Frameworks
+#Frameworks 
+
+A cyber security framework is a plan or roadmap for securing IT systems and protecting informational assets
+
+A cyber security framework is an approach or standard for developing the policies and procedures necessary to secure the confidentiality, integrity and availability of information systems and data. Examples include:
+- COBIT 2019 (IT Governance)
+- ISO/IEC 27000 (Cyber Governance)
+- NIST (Cyber Governance)
+
+
+## COBIT 2019
+#COBIT2019
+
+![[COBIT 2019 Framework.png]]
+
+The globally recognized COBIT framework, which helps ensure effective enterprise governance of information and technology (EGIT) had been updated with new information and guidance - facilitating easier, tailored implementation
+
+COBIT 2019 uses a maturity model based on the CMMI Institute's Capability Maturity Model Integration to assess enterprises' capability levels for each activity in COBIT. COBIT 2019 adds three additional management objectives (processes) as well as design factors.
+
+
+## ISO 27001 and NIST
+#ISO27001 #NISTFramework 
+
+ISO 27001 and NIST both involve establishing information security controls, but the scope for each vary on how they approach information security
+
+### ISO 27001
+#ISO27001 
+
+ISO 27001 Information Technology - Security Techniques - Information Security Management Systems
+
+[The standard](https://www.iso.org/standard/54534.html)
+
+There are actually dozens of related standard (ISO/IEC 27001, 27002, 27003, etc) - However, the requirements for information security are listed under 27001. Others listed under 27000 are "codes of practice" or definitions to be used to in support of the requirements in 27001.
+
+ISO/IEC 27000: 2018 Information Technology - Security Techniques - Information Security Management Systems
+
+ISO/IEC 27000: 2018 provides the overview of information security management systems (ISMS). It also provides terms and definitions commonly used in all the ISMS family of standards. This document is applicable to all types and sizes of organisation (e.g. Commercial Enterprises, Government Agencies, Not-For-Profit Organisations).
+
+
+
+ISO 27001 is a standard that focuses on keeping customer and stakeholder information confidential, maintaining integrity by preventing unauthorised modification and being available to authorised people and systems.
+
+The ISO 270001 standard has 10 clauses, the first three of which go over the references, terms and other basic information that is covered in the regulation. The other seven clauses guide companies in establishing and maintaining their Information Security Management System.
+
+Companies may see a lot of overlap between the NIST Cybersecurity Framework and ISO 27001 from implementing these guidelines, as it's a flexible framework that can accommodate everything from standard information systems to the Internet of Things
+
+
+### NIST Framework
+#NISTFramework 
+
+The Framework is a voluntary guidance, based on existing standards, guidelines and practices for organisations to better manage and reduce cybersecurity risk. In addition to helping organisations manage and reduce risks, it was designed to foster risk and cybersecurity management communications amongst both internal and external organisational stakeholders.
+
+- Applicability for all system lifecycle phases
+- Enhanced guidance for managing cybersecurity within supply chains and for buying decisions
+- New guidance for self-assessment
+- Better accounts for Authorisation, Authentication and Identity Proofing
+- Incorporates emerging vulnerability information (a.k.a. Coordinated Vulnerability Disclosure)
+- Administratively updates the Informative References
+
