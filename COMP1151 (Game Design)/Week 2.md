@@ -3,7 +3,7 @@
 [[SGTA]]
 
 ---
-# Say fun but don't say fun
+# *Say* fun but don't say fun
 
 - Sweaty
 - Sabotage
@@ -55,7 +55,6 @@ It is a dynamic: a pattern that arises out of the player's interaction with the 
 **Why does chaos dynamic occur? Which mechanics facilitate it?**
 - Music choices
 - Rules set
-- 
 
 **How does this dynamic contribute to the experience of the game?**
 - Makes it enjoyable due to severe unpredictability

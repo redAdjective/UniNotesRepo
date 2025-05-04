@@ -551,3 +551,95 @@ What types of skill are you challenging?
 - Dynamic difficulty adjustment
 
 ---
+# Design Ethics and Accessibility
+#DesignEthics #Accessibility
+## Ethical Game Design
+#DesignEthics 
+**Industry Standards**
+- Australian Computer Society Code of Professional Ethics
+- Interactive Games and Entertainment Association Code of Conduct
+
+Design Patterns
+Usability/Inclusive Design
+
+
+## Deceptive Patterns
+#Patterns
+
+### Defining Deceptive Patterns
+#Defining
+Deceptive patterns are:
+- Tricks used in websites and apps that make you do things that you didn't mean to, like buying or signing up for something
+
+- examples of stakeholder values superseding user values
+
+- the effect, intentionally or unintentionally, of obscuring, subverting or impairing a player's autonomy, decision-making or choice
+
+
+- UI Tricks
+- Influence Users
+- Designer Intent
+- Harms player/Benefits Service
+
+### Themes of Deceptive Patterns
+#Themes
+- Asymmetric
+- Information Hiding
+- Covert
+- Restrictive
+- Deceptive
+- Disparate Treatment
+
+
+### Types of Deceptive Patterns
+#Types
+**Monetary**
+- Monetized Rivalries (Pay to win)
+- Pay to Skip
+- Pre-Delivered Content
+
+**Temporal**
+- Grinding
+- Forcing players to spend time on it
+
+**Social Capital**
+- Social Pyramid Schemes
+- Pre-Delivered Content
+- Impersonation
+
+	ACM imposes fine on Epic for unfair commercial practices aimed at children in Fortnite game
+
+**Psychological**
+> There is an increasing interest in applying insights and results from psychology and behavioural economics to games. How do we draw the line between using this knowledge to provide more interesting, engaging and satisfying gameplay experiences and exploiting player's cognitive biases and predictability irrational behaviour to make more money?
+
+
+### Transparency
+#Transparency
+- Builds Trust with Players
+- Combats Predatory Practices
+- Fairness and Value Perception
+- Informs Purchasing Decisions
+- Regulation and Legal Issues
+- Ethical Considerations
+
+### Loot Boxes
+#Gambling
+Loot Boxes can be a deceptive pattern depending on presentation and contents transparency
+- Unclear Odds
+- Emphasis on Rarity
+- Visual Cues
+- Incomplete Content
+
+Loot Boxes create an illusion of value and exploit psychological factors to encourage players to spend more money than they might otherwise intend.
+
+## Usability and Inclusivity
+#Usability #Inclusivity
+### Accessibility
+#Accessibility 
+UI - User Interface - What players are interacting with
+UX - User Experience - What features are available, what the player needs and how their experience is impacted
+
+Accessibility - Can it be accessed?
+- Situational
+- Temporary
+- Ongoing

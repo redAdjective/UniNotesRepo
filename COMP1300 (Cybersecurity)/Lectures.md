@@ -946,3 +946,312 @@ The Framework is a voluntary guidance, based on existing standards, guidelines a
 - Incorporates emerging vulnerability information (a.k.a. Coordinated Vulnerability Disclosure)
 - Administratively updates the Informative References
 
+---
+# Cybercrime and Cybercriminals
+#CyberCrime #CyberCriminals
+
+## Hackers
+#Hackers
+
+What is a hacker?
+- Individuals with a profound interest in computers and technology
+- Use this knowledge to access computer systems with or without authorisation
+
+Hackers have a range of educational levels
+- Often have social relationships off and online
+
+The hacker subculture is defined by three key norms
+- Technology
+- Mastery/Knowledge
+- Secrecy
+
+### Subculture - Technology
+#Subculture #Technology
+Hackers believe in the power of technology to change the world
+- Information should be free to all users - "hacker code"
+
+Hackers operate and have social connections on and offline
+- Virtual
+- Real
+
+### Subculture - Knowledge
+#Subculture #Knowledge
+**There are various terms used to reference a hacker's skill and level of knowledge**
+- Cracker
+- Lamer
+- Noob
+- Leet (1337)
+- Black/White/Grey hat hacker
+- Script Kiddie
+
+### Subculture - Secrecy
+#Subculture #Secrecy
+**The use of nicknames or handles is common**
+- A unique way for hackers to represent themselves in the digital world
+- Allows them to hide their real identity
+
+While secrecy is highly valued, reputation and notoriety is also highly sought after
+
+Typical motivations for hackers include:
+- Money
+- Ego
+- Entertainment
+- Justified by a cause
+- Entry into a social group
+- Status
+
+### Penetration Testing Steps
+#PenetrationTesting
+1. Reconnaissance
+	- Gather as much information as possible
+		- Network Topology
+		- Operating Systems
+		- Applications
+		- User accounts
+
+2. Scanning
+	- Scan using tools looking for open ports
+	- Watch for network traffic
+	- Often uses tools for these steps
+
+3. Vulnerability Assessment
+	- Scan all discovered services for vulnerabilities
+
+4. Exploitation
+	- Once a vulnerability has been discovered, tester exploits it to gain access
+	- This can be done with tools too
+
+5. Reporting
+	- Provide report documenting all of the findings
+	- Provides recommendations to fix issues
+
+### Attack Steps
+#AttackSteps
+1. Reconnaissance
+	- Gather as much information as possible
+		- Network Topology
+		- Operating Systems
+		- Applications
+		- User accounts
+
+2. Scanning
+	- Scan using tools looking for open ports
+	- Watch for network traffic
+	- Often uses tools for these steps
+
+3. Vulnerability Assessment
+	- Scan all discovered services for vulnerabilities
+
+4. Exploitation
+	- Once a vulnerability has been discovered, tester exploits it to gain access
+	- This can be done with tools too
+
+5. Maintaining Access
+	- Avoid detection from defenses
+	- Create backdoors
+
+6. Covering Tracks
+	- Remove records of entry and actions taken
+
+
+### Deterrence Theory
+#Deterrence
+- Deterrence theory says that people don't commit crimes because they are afraid of getting caught - instead of being motivated by some deep moral sense
+  
+- According to deterrence theory, people are most likely to be dissuaded from committing a crime if the punishment is swift, certain and severe
+	- For example, if there is a low likelihood that you'll get caught or if the punishment for getting caught is just a warning, deterrence theory says you'll be more likely to do the crime.
+
+- Deterrence theory has received some criticism because it makes three assumptions. It assumes that people:
+	- Know what the penalties for a crime are
+	- Have good control over their actions
+	- Think things through and make choices about their behaviour based on logic, not passion
+
+- In the case of many crimes, these three assumptions just aren't true. Even so, deterrence theory does seem to have some merit
+
+### Cyber Kill Chain
+#CyberKillChain
+- **Cyber Kill Chain** was developed by Lockheed Martin
+- Describes what cyber adversaries must complete to achieve their goals
+- Helps us understand and combat ransomware, security breaches, and advanced persistent attacks (APTs)
+- Different companies have their own variations of this
+
+![[Cyber Kill Chain.png]]
+
+### Types of Cyber Crime
+#Types 
+- Computer as a target
+	Eg: Network intrusions, Information Theft, DoS, and Data Alteration
+
+- Crimes associated with the prevalence of computers
+	Eg: Intellectual property violations, identity theft
+
+- Computer as incidental to crime
+	Eg: Child violence through computer games
+
+- Computer as an instrument of a crime
+	Eg: Computer/Data contained therein is not the object of the crime
+	Eg: Pyramid Scheme, Salami Slicing Technique - Divide and conquer technique
+
+
+## Threat Actors
+#ThreatActors
+![[Threat Actors.png]]
+
+### Common Actors
+![[Common Threat Actors.png]]
+
+### Example Characterization
+![[Example Characterization.png]]
+
+### Defending Attributes
+![[Defining attributes.png]]
+
+| <centre>**Type**</centre> | **Info**                                                                                                                                                                                    | **Motives**                                         | **Capabilities**                                                                             | **Targets**                                                                              | **Examples**                                                                                                                                                                                                                                                                                                                                |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #Insiders                 | - Insiders pose a threat to cyber security<br><br>- They already know the systems and have access<br><br>- Insiders need to be categorised the same way as external threat actors           | Vary case to case, most commonly money or cause     | Usually full access                                                                          | Usually large organisations or governments                                               | - Edward Snowden leaking classified government docs<br><br>- Chelsea (Bradley) Manning leaking US army war docs<br><br>- Bupa employee stole 500,000 records and tried to sell on dark web. They were fined for lack of action                                                                                                              |
+| #Terrorists               | - Terrorists will use any medium available to achieve their goals<br><br>- Some overlap with Hacktivism                                                                                     | Gaining support/radicalisation, broadcast, funding  | Very limited, usually DDoS                                                                   | Individuals to recruit, radicalise or gather support                                     | - ISIS was a very successful radicalizing individuals internationally to either go and fight or create home grown terrorism<br><br>- Al Qaeda used the internet to plan physical attacks, this included recruitment                                                                                                                         |
+| #Hacktivists              | - Hacktivists are politically/ethically motivated groups that target companies for defamation/vandalism/data breaches<br><br>- Typically use means to cause damage (DDoS) or send a message | Political/Social/Religious beliefs                  | Limited to high depending on group                                                           | Any organisation they oppose, often coal/mining/governments/unethical research companies | - Cult of the Dead Cow<br><br>- Syrian Electronic Army<br><br>- Wikileaks<br><br>- Anonymous<br><br>- LulzSec                                                                                                                                                                                                                               |
+| #StateSponsored           | - Various levels of "state sponsorship"<br><br>- State sponsored groups are often very dangerous                                                                                            | Supporting a political agenda or national interests | Usually very high                                                                            | Anyone who opposes the supported group                                                   | Lazarus Group (or GOP) is a North Korean state sponsored cybercrime group that has attacked Sony over the release of "The Interview"                                                                                                                                                                                                        |
+| #OrganisedCrimeGangs      | - Organised crime gangs have either expanded, transitioned entirely or been formed                                                                                                          | Financial                                           | Locally - Low<br><br>Internationally - Very High<br><br>Largely due to jurisdictional issues | Companies and individuals                                                                | - MageCart was a large e-commerce hacking ring. They used malware to accomplish many of their attacks<br><br>- DarkSide is a ransomware crew that operates out of Russia. They were responsible for the 2021 Colonial Pipeline ransomware attack<br><br>- Clop was launched in 2019 and specialise in "double extortion" ransomware attacks |
+
+## Threat Response
+#ThreatResponse
+
+### Spectrum of Cyber Operations
+#Spectrum
+- Potential operations range from virtually undetectable to merely annoying to destructive
+  
+- The goal of the attack will change the disruptiveness of the attack
+	- Cyber Espionage or APTs will typically be more stealthy
+	- A DDoS attack will be far less stealthy
+
+- An appropriate response must be considered and will be relative to the Cyber Disruptiveness of the attack
+
+
+### Use of Force
+#UseOfForce
+- A cyber operation may constitute use of force or even an armed attack if its scale and effects are comparable to those of the use of force or an armed attack by conventional means.
+
+- A number of factors to be considered:
+	- Severity of the consequences (the level of harm inflicted)
+	- Immediacy
+	- Directness
+	- Invasiveness
+	- Measurability
+	- Military Character
+	- State involvement
+	- The nature of the target (such as critical infrastructure)
+	- Whether this category of action has generally been characterised as the use of force
+
+
+### Use Case
+#UseCase
+- Appropriate use of force is difficult to decide
+
+- What impact will this have on your business?
+- What options for retaliation do you have here?
+- What changes if you were state sponsored?
+
+### Retaliation
+#Retaliation
+- The previous model is an example but situation dictates everything.
+
+- The OPM Breach can be taken as an example
+	- Non-Destructive cyber attack
+	- No service outages
+	- Sensitive government employee data stolen
+	- Large scale breach
+	- Done allegedly by China
+	- What is a proportional response to this?
+	- How can you respond to a group instead of a country?
+
+
+- What factors do you think should carry weight in considering the extent of retaliation?
+	- Loss of life?
+	- Critical Infrastructure?
+	- National Security?
+	- Financial Impact?
+
+
+### Attribution
+#Attribution
+- Attribution may sound like a trivial idea but it has major political ramifications
+	- This is only really done by state bodies
+
+- Attribution against an adversary requires proof that the attack really originated from them
+	- Without this the country claiming attribution risks looking like a fool
+
+- It is made even harder due to false flag operations
+
+
+- Attribution should carry a response with it
+	- This is usually in the form of economic sanctions
+
+
+### Attribution Factors
+#Factors
+![[Attribution Factors.png]]
+
+
+## Use Cases
+#UseCase 
+### Stuxnet
+#Stuxnet
+- The first known cyber-weapon
+- Targeted the Iranian nuclear program using a subtle well-designed mechanism causing some of its centrifuges to run too fast
+- Stuxnet infections were found in Iran, Indonesia, India and a number of other countries
+- Estimated 100,000 computers were infected
+- Widely believed that Israeli Mossad and the USA were behind the attacks
+
+
+### Project Aurora
+#ProjectAurora
+- Project Aurora was a classified test by Idaho National Laboratory to test the possibility of a cyber attack against physical components of a power grid
+- The test was classified but was accidentally released through a request made to the government
+- The test showed that a cyberattack against the power grid was very possible
+- The destruction of a single generator could cause cascading failures across the grid as seen in the US Northeast blackout of 2003
+- Turn around time for replacement of a generator at the time was ~1 year
+
+
+### WannaCry
+#WannaCry
+- The WannaCry Ransomware attack was a global epidemic
+- On Friday May 12th 2017, several organisations were affected by a new Ransomware Strain
+- The Ransomware was very successful in part because it used a SMB vulnerability to spread inside networks
+- The vulnerability was patched by Microsoft in March for supported versions of Windows
+- Cybercriminals took advantage of a weakness in the Microsoft Windows Operating System using a hack that was allegedly developed by the United States National Security Agency
+- Also known as EternalBlue, this hack was made public by a group of hackers called the Shadow Brokers in April before the WannaCry attack
+- Estimated that more than 250,000 organisations fell victim to the ransomware
+
+---
+# Cryptography
+#Cryptography
+## Introduction to Cryptology
+#Cryptology
+- Cryptology encompasses two fields of research and development:
+	- Cryptography - the development of cryptographic techniques
+	- Cryptanalysis - the breaking of cryptographic techniques.
+
+- Cryptography
+	- Name comes from Greek roots meaning “secret writing”
+	- Study of techniques to enable two or more parties securely communicate with each other in the presence of an adversary
+	
+	- What does securely communicate mean?
+		- Depends on context
+		- Different scenarios require different security properties (Recall CIA triad)
+
+### Some Definitions
+#Terminology 
+- **Plaintext** - The original format of the message
+- **Ciphertext** - The encrypted form of the message
+- **Key** - A parameter, input to the encryption or decryption process (or both)
+
+## Cryptographic Cast of Characters
+- **Alice** - first participant in a protocol
+- **Bob** - second participant in a protocol
+- **Carol** - participant in three and four protocol
+- **Eve** - Eavesdropper
+- **Mallory** - A malicious, active attacker
+- **Peggy** - A prover
+- **Victor** - A verifier
+
