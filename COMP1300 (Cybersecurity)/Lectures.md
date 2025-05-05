@@ -1246,7 +1246,8 @@ Typical motivations for hackers include:
 - **Ciphertext** - The encrypted form of the message
 - **Key** - A parameter, input to the encryption or decryption process (or both)
 
-## Cryptographic Cast of Characters
+
+### Cryptographic Cast of Characters
 - **Alice** - first participant in a protocol
 - **Bob** - second participant in a protocol
 - **Carol** - participant in three and four protocol
@@ -1254,4 +1255,254 @@ Typical motivations for hackers include:
 - **Mallory** - A malicious, active attacker
 - **Peggy** - A prover
 - **Victor** - A verifier
+
+
+### Kerckhoff's Principle
+#Kerckhoff-Principle
+- Black box security
+	- Develop neat algorithms and try to keep them secret
+	- Inevitably fails
+			- Most algorithms developed this way have weaknesses which will be discovered and exploited
+			- Violates Kerckhoff's Second Principle - "Enemy knows the system"
+
+- Crystal box security
+	- Publish your algorithms and subjective to community review
+		- Weak algorithms do not survive
+	- Implement as open-source software
+		- Weaknesses in implementation will be exposed and fixed
+
+
+### Adversary Capabilities
+#Adversary #Capabilities
+- **Eve** - Can eavesdrop, i.e. sniff packets, but cannot modify
+	- Passive attacker
+
+- **Mallory** - Can remove, reorder, reinsert and sometimes modify packets
+	- Active attacker
+
+
+### Adversary Intentions
+#Adversary #Intentions 
+- What might the adversary want to do?
+	- Read an encrypted message
+	- Obtain a key so she can read multiple past messages
+	- Obtain a key so she can read future messages
+	- Change encrypted messages to obtain a benefit
+	- Pretend to be Alice or Bob
+	- Find out who Alice or Bob really are
+	- ... ?
+
+- The adversary's intentions and capabilities are specified via a **Threat model**
+
+
+### The Weakest Link in Property
+#Weakest-Link-Property
+A security system is only as strong as its weakest link
+- You may have implemented strong cryptography, but
+- People often miss the weakest link
+	- Computer-Oriented people often forget physical security
+	- Even more often, they forget the users
+
+- You need to learn to think like an attacker
+
+### Work Factor
+#Work-Factor
+The strength of a cryptosystem is expressed in terms of the work required to break it
+- The work factor is generally a function of the size of the cryptographic key
+
+Ideally - Cryptosystem is secure if any attack on it requires an infeasible amount of time if they key is larger than a specific size
+
+Reality - Cryptosystem is secure if all known attacks requires an infeasible amount of time if the key is larger than a specific size
+
+
+- Depends on the computing power available to adversary
+- We need to define a unit of time
+	- Generally related to an elementary operation, e.g. number of encryptions required to break a system, number of hashes required to break a system
+	- E.g. $$2^{100} \text{ Operations is infeasible in reality}$$
+
+## Classical Ciphers
+#Classical-Ciphers
+- These are examples of substitution ciphers - substitute letters with other letters
+  
+- There are also permutation ciphers - permute the order of letters
+  
+- Modern ciphers are built on a combination of both but:
+	- Increased key space
+	- Security against known plaintext-ciphertext pairs
+	- Relationship of ciphertext with plaintext is non-linear
+
+### Symmetric (Secret-Key) Cryptography
+#Symmetric-Cryptography
+Share a secret key
+- Symmetric - Same key is needed at both ends
+- Assumption - Secure channel to distribute the secret key
+- Provides security against insecure channel to communicate
+
+![[Symmetric Cryptography.png]]
+
+
+### Cryptanalysis of Caesar Cipher
+#Cryptanalysis #Caesar-Cipher
+- Frequency Analysis
+	- The frequency distribution of English letters is not uniform
+	- Letters 'E' and 'T' occur most often
+	- Shift ciphers such as the Caesar cipher maintain letter distribution
+		- But shifted
+
+
+### Cryptanalysis of Affine Cipher
+#Cryptanalysis #Affine-Cipher
+- Frequency analysis still possible
+	- Same plaintext letter always assigned to the same ciphertext letter under the same key
+
+- If we know two plaintext-ciphertext pairs, we can find the key
+	- For Caesar cipher, only one plaintext-ciphertext pair is enough
+
+
+## Modern Symmetric Ciphers
+#Modern-Symmetric-Ciphers
+- Ensure that the same key can be reused multiple times to encrypt a large number of messages
+
+- **Block Ciphers**
+	- Encrypt a message block by block, e.g., 128 bits
+
+- **Stream Ciphers**
+	- Encrypt a message bit by bit
+	- Similar to one-time pad, but without requiring key to be as large as plaintext
+
+
+### One-Time Pad (OTP) / Vernam Cipher
+#One-Time-Pad #Vernam-Cipher
+![[One-Time Pad, Vernam Cipher.png]]
+
+
+## Block Ciphers
+#Block-Ciphers
+### Data Encryption Standard (DES)
+#Data-Encryption-Standard 
+- Developed at IBM by a team including Horst Feistel - Based on Feistel circuit
+
+- Expansion Permutation:
+	- 32-bit right block is expanded and permuted to 48 bits
+	- **Diffusion**
+
+- Round Key Addition:
+	- Sampled 48 bits from the key (length 56 bits)
+	- 48 bit output from above is XOR-ed with 48 bit round key
+
+- S-Boxes:
+	- Each 6-bit block is passed through an S-box producing 4-bit output
+	- **Confusion** - Non-linearity
+	- S-Boxes implemented as a lookup table
+
+- P-Box:
+	- 8 lots of 4 bits are permuted to produce a 32 bit output
+
+
+![[Data Encryption Standard.png]]
+
+### Security of Data Encryption Standard (DES)
+- 56 bits of key not enough for security
+	- An attacker with ciphertext can try all possible keys
+	- Complexity of attack: $$\text{O}(2^{56}) \text{ - low compared to O}(2^{100})$$
+
+- Solution: use DES multiple times with different keys
+	- 3DES: $$DES_{k3} (DES_{k2} (DES_{k1} (m)))$$
+	- 2DES: Does not give us security better than DES
+
+
+### Advanced Encryption Standard (AES)
+#Advanced-Encryption-Standard
+- 3DES solves the small key size issue – but it is slow both in software and hardware
+
+- National Institute of Standards and Technology (NIST) asked for submissions for its successor
+
+- The AES winner was the Rijndael algorithm designed by Joan Daemen and Vincent Rijmen
+
+- AES is not based on Feistel cipher
+	- Designed as a substitution-permutation (SP) network
+	- Encryption and decryption algorithms are different
+
+- AES still has some similarities with DES
+	- Multiple rounds, Each round has key addition, substitution and permutation
+	- Substitution phase - Introduces non-linearity or confusion
+	- Permutation phase - Produces an avalanche effect or diffusion
+
+- Unlike DES, AES has a mathematical structure – Its functionality can be written as equations in a field
+	- Helps to argue security against specific cryptanalytic attacks; More security than DES
+
+
+## Stream Ciphers
+#Stream-Ciphers
+Similar to the one-time pad
+- No need of a key as long as the plain-text
+- Generate random streams of 1's and 0's from an initial shorter key
+- Same sequence (key) needs to be generated at both ends
+	- How?
+		- Using pseudo-random number generators (PRNGs)
+		- E.g. Linear Feedback Shift Registers
+
+![[Stream Cipher.png]]
+
+### Notable Stream Ciphers
+#Notable-Mentions
+A5/1 Cipher
+- Encrypting communication in GSM phones
+
+Trivium
+- Uses non-linear feedback shift registers
+
+RC4
+- Fast software implementation
+
+
+## Modern Asymmetric Cipher
+#Modern-Asymmetric-Ciphers
+### Need for Public key cryptography
+#Public-Key
+- Symmetric cryptography
+	- Provides secure communication
+	- Can also be used for message authenticity and integrity
+
+- Public-key cryptography can do more
+	- Secure key distribution
+	- Asymmetric cryptography (no need to exchange/distribute the key)
+
+- Each party uses their own public/private key pairs
+	- Non-Repudiation (via Digital signatures)
+
+- A sender of a message cannot claim never to have sent that message
+
+
+### Public Key Cryptography
+#Public-Key 
+- Communicating parties do not share a secret key
+- Alice and Bob have their own pairs of keys
+
+- Alice:
+	- $$sk_{A}\text{: Secret key, only known to Alice}$$
+	- $$pk_{A} \text{: Public key, known to everyone (Including Bob)}$$
+
+- Bob:
+	- $$sk_{B} \text{: Secret key, known only to Bob}$$
+	- $$pk_{B} \text{: Public key, known to everyone (Including Alice)}$$
+
+
+### Public Key Cryptography
+#Public-Key-Cryptography
+Alice wants to send message "m" to Bob
+
+- **Encryption**:
+	- Alice uses Bob's public key to encrypt the message "m"
+	- $$C = Epk_{b}(m)$$
+	- It should be (computationally) infeasible to obtain "m" from "c"
+
+- **Decryption:
+	- Bob uses his secret key to decrypt the received cipher message "c"
+	- $$M = Dsk_{b}(c)$$
+
+
+### Diffie-Hellman Key Exchange
+#DiffieHellman-Key-Exchange
+
 

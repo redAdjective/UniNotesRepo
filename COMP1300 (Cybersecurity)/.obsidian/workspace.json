@@ -241,12 +241,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a4e93894ad44023",
+  "active": "9aef1c426b043c5e",
   "lastOpenFiles": [
+    "Stream Cipher.png",
+    "Data Encryption Standard.png",
+    "Lectures.md",
+    "One-Time Pad, Vernam Cipher.png",
+    "Symmetric Cryptography.png",
     "Risk Management.md",
     "Security Principles.md",
     "ISC2 Notes.md",
-    "Lectures.md",
     "Week 8.md",
     "SGTA.md",
     "Privacy.md",
@@ -257,13 +261,10 @@
     "Threat Actors.png",
     "Cyber Kill Chain.png",
     "NIST Framework.png",
-    "COBIT 2019 Framework.png",
     "Week 6.md",
     "Dumpster Diving.md",
     "Phishing.md",
     "Week 5.md",
-    "Digital Ethics and Deontology.png",
-    "Digital Ethics and Utilitarianism.png",
     "Assignments/COMP1300 Assignment 1 (49079093).md",
     "Assignments"
   ]

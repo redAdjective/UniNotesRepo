@@ -75,7 +75,8 @@
               "title": "The Art of Game Design"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,14 +241,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96c2723268380c1d",
+  "active": "871aedfddd6f87f1",
   "lastOpenFiles": [
-    "Introduction.md",
-    "Overview.md",
-    "Week 8.md",
-    "The Art of Game Design.pdf",
-    "Lecture.md",
+    "Slide Deck.png",
     "SGTA.md",
+    "Week 8.md",
+    "Lecture.md",
+    "Overview.md",
+    "Introduction.md",
+    "The Art of Game Design.pdf",
     "Week 2.md",
     "README 1.md",
     "Week 6.md",

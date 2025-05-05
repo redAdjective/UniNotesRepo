@@ -643,3 +643,299 @@ Accessibility - Can it be accessed?
 - Situational
 - Temporary
 - Ongoing
+
+---
+# Ideation, Creativity and Communicating Ideas
+#Ideation #Creativity #Communication
+## Ideation and Creativity
+- How do we find an idea?
+- How do we pick an idea?
+
+## Communicating your ideas
+- Who do we need to communicate our game to?
+- How do we communicate our game idea?
+
+
+> Most games start with an idea! What kind of idea?
+
+
+| **Source**                    | **Idea**                                                                    |
+| ----------------------------- | --------------------------------------------------------------------------- |
+| A toy                         | "I'm going to make a game where you can bounce off walls!"                  |
+| A real life experience        | "I'm going to make a game about my job at a burger bar!"                    |
+| A love letter to a game/genre | "I'm going to make a game like Jax and Dexter!"                             |
+| A setting                     | "I'm going to make a game about Welsh mythology"                            |
+| A message                     | "I'm going to make a game about wealth inequality in my city"               |
+| A question                    | "What would it be like if every conspiracy theory you ever heard was true?" |
+
+## Nothing new under the Sun
+There are no original ideas, only new implementations
+
+## Even stories aren't unique
+According to Booker (2004), there are only seven basic plot lines in stories:
+- Overcoming the monster
+- Rags to riches
+- The quest
+- Voyage and return
+- Comedy
+- Tragedy
+- Rebirth
+
+The rest is dressing and context
+
+## This is liberating
+It means your ideas can come from anywhere
+
+## But what if I can't think of an idea?
+There are many ways to spark new ideas
+
+### Game Specific Idea Generation
+#Game-Specific-Idea
+Genre Mashup
+Mechanic-first thinking
+What-if question
+
+### Solution Based Idea Generation
+#Solution-Based-Idea
+Mind mapping
+Brainstorming
+Negative Brainstorming
+Random Words
+Reversal
+
+
+## Get more creative
+#Creativity 
+There are many ways to foster creativity in your life.
+
+## Openness
+#Openness
+Be open to new experiences and try different things:
+- Try a new food each week
+- Take a different way to uni
+- Listen to a different type of music
+- Try a new genre of game/book/media
+
+
+## Nature Bathing
+#Nature-Bathing
+
+<center>According to Yeh, et al., (2022) "viewing natural environments stimulates curiosity and fosters flexibility and imagination, highly natural environments distract our minds from work, and the benefits of attention restoration can improve the uniqueness and diversity of creative ideas</center>
+
+
+## Adopt a different perspective
+#Perspective
+- Describe everyday phenomena from the perspective of an alien experiencing it for the first time. 
+	- E.g. Explain what the purpose of sunglasses are
+		- Don't assume aliens see the same way
+		- What is the importance of fashion?
+
+- Try doing something in a different or unconventional way:
+	- Non-dominant handedly / Inverse controls
+	- Change the language settings
+	- Play from a position different to your normal seat
+
+## Notable Mentions
+#Notable-Mentions
+**Short Term Creativity Boost**
+- Get bored:
+	- Read the dictionary or write up numbers from 1 to 10000
+	- Count blades of grass or the hairs on your arm/leg
+
+- Get awed:
+	- Awe enhances creative thinking
+		- Even images of something awe-inspiring works
+			- So you can watch something awesome on YouTube to get the benefit!
+
+**Mid-Long Term Creativity Boosts:**
+- Ask for help - increases next week's creativity
+- Play the "Alternate use task" every now and then
+- Meditation
+
+
+## Too many options?
+## Analysis Paralysis?
+#Analysis-Paralysis
+How do I pick when I have so many good ideas?
+
+
+## Narrow in and Reduce your options
+<center>"What's the question?" Identifying the key question is really the main problem behind "analysis paralysis" - if you don't know where you are going, you can't really get there.</center>
+
+
+## Phone a friend
+#Phone-A-Friend
+Seek an external perspective and/or advice
+- Bonus as help-seeking will help your creativity next week
+
+
+## False Pick Gut Choice
+#False-Pick-Gut
+- RNG to select from the options
+- Maybe you know the right choice if you listen to your body
+
+
+## Notable Mentions
+#Notable-Mentions 
+- Pros and cons list
+- Testing out an option and restarting if need be
+
+
+## From Idea to Design
+#Idea-Design
+Ideas are great, but:
+- They come from anywhere
+- (Probably) aren't new
+- Are personal to you
+
+To make a game, you must turn your idea into a design
+
+And then you've got to communicate that design to get people on board.
+
+
+## Communicating to yourself
+- What is the game's vision?
+- What do I need to do to make this happen?
+- Why should I keep at this?
+
+
+## High Concept
+#High-Concept
+- A high concept should communicate the following:
+	- What kind of game is it?
+	  Relate your idea to standard genre terms and perspective
+	  
+	- What is unique?
+	  Set your game apart from the rest
+	  
+	- What is the player doing and feeling?
+	  Give an example of play
+
+
+## The most important thing
+Your high concept is something that everyone working on the game knows, can refer back to, and is working towards.
+
+
+## Pitching to Producers
+#Pitch #Producers
+What is the game?
+- High concept, core gameplay, target experience, art direction
+
+What demand is it answering?
+- What are similar games? How is this one different, mechanically, art style, etc.
+- Who are your target audience?
+
+How do we fund it? How much time and how many people?
+- What platform is this on? What is its general scope? Mechanics and art style are part of this too.
+
+Why do I want to look at spreadsheets on this for the next few years?
+- Keep your info clear, concise and exciting
+
+
+## Crafting an internal pitch
+A pitch is a persuasive text: you are telling this person why they need to be interested in your game.
+
+Information from a pitch will inform other documentation, and vice versa
+
+Your high concept will often inform, be part of, or even be your pitch!
+
+
+## Elements needed for your pitch
+- Core gameplay and target platform
+- Experience goals
+- Target audience
+- Art direction
+- A slide deck
+
+![[Slide Deck.png]]
+
+
+## High concept to Elevator Pitch
+#Elevator-Pitch
+Your high concept is the first version of your elevator pitch
+
+But once you've worked out some ideas, it can evolve.
+
+An elevator pitch should only be about 1 minute in length.
+
+An elevator pitch is your starting point for a longer pitch, and so on
+
+
+## Communicating to your team
+#Team
+How do we make this game?
+- Mechanic specifics, engines, experience, budget
+
+What is my role on this project?
+- Actionable documentation
+
+What needs to be done?
+- Breakdown of tasks
+
+Lowkey, why do I want to work on this for the next few years?
+- What's the vision, how can we share it?
+
+
+## Living Documentation
+#Documentation
+The days of monolithic game design documents aren't over, but many teams now rely on modular, evolving documentation due to the agile process.
+
+Trello boards, Google Docs, and other team management tools are now more common.
+
+Documentation that can be edited, retired or transposed is crucial to contemporary game dev
+
+
+## Pitching to Publishers
+How does the game fit my identity?
+- Target audience, similar games, target platform
+
+What funding exists? What's left?
+- Budgets, forecasts
+
+What tasks are left? Marketing? Development?
+- Scope, Prototypes
+
+Can this team make it happen?
+- Team experience, Team members
+
+Why do I want to champion this in meetings with the suits?
+- An evocative, informative design - with some mystery
+
+
+## Other elements publishers may want from your pitch
+- Does this game fit our identity?
+- Funding and work to be done
+- Can you make this game?
+- Am I excited about this game?
+
+
+## Communicating to Players
+#Players
+Can I buy this game? Is it accessible to my needs?
+- Platform, launch date, cost, accommodations and settings
+
+Why should I play this game and not another game?
+- What makes this game unique
+
+Do I want to play this game?
+- Target audience, core gameplay, experience goals
+
+
+## Meeting your players
+Where do your players congregate? How can you reach them there?
+
+What terminology will your players know? What will confuse them?
+
+How are your players different from you?
+
+
+## Prototypes
+#Prototype
+
+> At some point, the best documentation is the game
+
+- Low-Fidelity or High-Fidelity
+- Paper or Software
+- Horizontal or Vertical
+
+---
