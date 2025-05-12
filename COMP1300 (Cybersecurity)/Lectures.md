@@ -1507,3 +1507,320 @@ Alice wants to send message "m" to Bob
 
 
 ---
+# IoT and Cybersecurity
+#IoT #Cybersecurity
+## Internet of Things (IoT)
+#IoT 
+**What is IoT?**
+- An electronic device that is connected to the internet
+
+**Basic properties of an IoT device**
+- A physical device/object
+- Contains controllers, sensors and or actuators
+- Connects to the internet
+
+**Examples**
+- Amazon Alexa
+- Samsung Smart TV
+- Smart Phones
+- Google Home
+- NEST Security Camera
+- Industrial applications like smart city devices
+
+**Generally labelled as "Smart Devices"**
+
+![[IoT Trend.png]]
+
+
+### Trend in IoT Devices
+#IoT #Trend
+Increasingly becoming popular:
+- Higher availability of internet access
+- Connection cost decreasing
+- More devices with Wi-Fi capabilities/sensors
+- Technology cost decreasing
+
+Industries:
+- Personal/Consumer
+- Healthcare
+- Automotive
+- Manufacturing
+- Etc.
+
+### Home IoT Devices
+Average number of devices per person: 8
+
+### Relationship to the Internet of Everything (IoE)
+#IoE 
+![[Internet of Everything.png]]
+
+### The IoT Network
+#IoT #Network 
+![[IoT Network.png]]
+
+
+### IoT Reference Model
+#Reference
+![[IoT-World-Ref.png]]
+
+### Applications
+#Applications
+Smart Grid
+- Energy Generators, Turbines, Windmills, Batteries, Fuel Cells
+
+Smart Transportation
+- Vehicles, Lights, Ships, Planes, Tolls, Parking Meters
+
+Retail
+- POS Systems, Cash registers, Vending Machines, Tags
+
+Healthcare
+- MRI, Implants, CGM, Pacemaker
+
+Personnel
+- Digital Cameras, e-Readers, Dishwashers, Refrigerators, Game Consoles
+
+
+### IoT Supply Chain are more complex
+#Supply-Chain
+![[IoT Supply Chain.png]]
+
+
+## IoT Risks and Vulnerabilities
+#Risk #Vulnerabilities 
+### Privacy, Security and IoT
+#Privacy #Security #IoT 
+- Privacy is about retaining the ability to disclose data consensually, and with expectations about the context and scope of sharing
+
+- With online privacy, we wish to ensure that our personal data is not disclosed to third parties without our knowledge or consent.
+
+- As with any online service, IoT Privacy and IoT Security are linked and complement each other:
+	- Entering your password via an un-secured IoT device risks eavesdroppers from stealing your identity
+	- If your mobile lacks a password and is stolen, your personal data like call logs, messages, photos etc can be accessed
+
+
+### Inward vs Outward IoT Security
+#Inward-Security #Outward-Security
+**Inward Security**
+- Focus on potential harms to the health, safety and privacy of device users and their property stemming from compromised IoT devices and systems
+
+**Outward Security**
+- Focus on potential harms that compromised devices and systems can inflict on the internet and other users
+
+
+### Inward Security: What risks do insecure IoT devices bring to Privacy and Security?
+#Privacy #Security #Risk 
+- Using insecure IoT devices increases the risks of personal data being exposed/stolen and privacy compromised
+
+- A smart camera using default username and password combination can be used to spy on you or be compromised to send junk information to the internet
+
+- A wearable smart device that sends health information over un-encrypted channels can expose personal data
+
+- A smart home device like a television that lacks sufficient updates can be vulnerable to new attacks and be used to share private data
+
+- Smart vehicles running insecure software can be accessed remotely and compromised to disable certain functions of the car
+
+
+### Economics favor weak IoT security
+#Economic
+- Strong security can be expensive to design and implement, and it lengthens the time it takes to get a product to market
+
+- There is currently a shortage of credible ways for suppliers to signal their level of security to consumers (e.g. certifications and trustmarks)
+
+- The cost and impact of poor security tend to fall on the consumer and other internet users, rather than on the producers of IoT systems
+
+
+### Risks and Vulnerabilities
+#Risk #Vulnerabilities 
+- Weak, guessable, hardcoded passwords
+	- Use simple and default passwords
+
+- Infrequent patches
+
+- Insecure Network Services
+
+- Use of insecure or outdated components
+
+- Insufficient Privacy Protection
+	- User's personal information is stored on the device and is used insecurely or without permission
+
+- Insecure data transfer and storage
+
+- Insecure default settings
+
+- Lack of physical hardening
+
+
+### IoT Attack Surfaces
+#AttackType 
+#### Device Layer
+#Device-Layer
+
+| **Attack Surface**         | **Vulnerability**                                                                        |
+| -------------------------- | ---------------------------------------------------------------------------------------- |
+| Ecosystem Access Control   | - Implicit trust between components<br>- Enrollment security<br>- Lost access procedures |
+| Device Memory              | - Cleartext Usernames<br>- Cleartext Passwords<br>- Third-Party Credentials              |
+| Device Physical Interfaces | - User CLI<br>- Admin CLI<br>- Privilege Escalation                                      |
+| Device Web Interface       | - SQL Injection<br>- XSS<br>- Weak Passwords                                             |
+| Device Firmware            | - Hardcoded Credentials<br>- Sensitive information disclosure<br>- Encryption Keys       |
+
+
+#### Communication Layer
+#Communication-Layer
+
+| **Attack Surface**      | **Vulnerability**                                                                              |
+| ----------------------- | ---------------------------------------------------------------------------------------------- |
+| Device Network Services | - Denial of Service<br>- Buffer Overflow<br>- Poorly implemented encryption                    |
+| Ecosystem Communication | - Health Checks<br>- Ecosystem Commands<br>- Pushing Updates                                   |
+| Network Traffic         | - LAN<br>- LAN to internet<br>- Short Range                                                    |
+| Local Data Storage      | - Unencrypted data<br>- Data encrypted with discovered keys<br>- Lack of data integrity checks |
+
+
+#### Application Layer
+#Application-Layer
+
+| **Attack Surface**       | **Vulnerability**                                                                                            |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| Update Mechanism         | - Updates sent without encryption<br>- Updates not signed<br>- Missing update mechanism                      |
+| Mobile Application       | - Implicitly trusted by device or cloud<br>- Insecure data storage<br>- Insecure password recovery mechanism |
+| Vendor Backend APIs      | - Inherent trust of cloud or mobile application<br>- Weak access controls<br>- Weak authentication           |
+| Administrative Interface | - SQL Injection<br>- Account Lockout<br>- Two-Factor Authentication                                          |
+| Cloud Web Interface      | - SQL Injection<br>- Weak passwords<br>- Username Enumeration                                                |
+| Third-Party Backend APIs | - Unencrypted PII sent<br>- Device Information leaked<br>- Location Leaked                                   |
+
+
+## Defenses
+#Defense 
+### IoT Code of Practice - Consumer Devices
+#Code-Of-Practice
+![[IoT Code of Practice.png]]
+
+### Strong Passwords
+#Password 
+- A lot of devices come preconfigured with simple default username/passwords.
+  
+- It is important to change these default passwords to new secure ones as soon as you get the device.
+	- Remember, a criminal only needs one unsecure entrance to access your home. Your network and data are no different.
+
+- How easy is it to crack default passwords?
+	- Search up a device make/model followed by "default password“.
+	- http://open-sez.me - This is a website that keeps a database of default credentials for all sorts of vendors – home and enterprise.
+
+
+### Network Segmentation
+#Network-Segmentation
+- One of the most important things when it comes to IoT devices is making sure to keep them on a different network from your home or business.
+	- Keeping them separate will mitigate the risk of a more vulnerable device
+
+- Companies that have been breached through IoT devices, often had them attached to their regular network which allowed the attacker access to other areas once they got in through the IoT device.
+
+
+### Device Identity Proof
+#Device-Identity-Proof
+- Remote services can verify the device identity based on a device certificate containing the public key
+
+- A random challenge from an external Attestation service triggers a corresponding response from the secure boot manager
+
+- Random challenge is signed with the device's private key and externally verified
+
+![[Device Identity Proof.png]]
+
+
+### Device Integrity Proof
+#Device-Integrity-Proof
+- Remote services can verify the device integrity based on a device certificate containing the public key
+
+- A hash value of code/data is calculated by the secure boot manager and sent to an external integrity verification service owning the corresponding public key
+
+![[Device Integrity Proof.png]]
+
+
+### TLS Client/Cloud Authentication
+#TLS-Client/Cloud-Authentication
+- A remote server request the device to authenticate in a TLS session
+
+- The required signature operation for this mutual authentication in a handshake is calculated by the secure boot manager
+
+![[TLS Client-Cloud Authentication.png]]
+
+
+### Device Management
+#Device-Management
+- A remote server opens a secure channel in a mutual authenticated TLS session
+
+- This secure channel can be now used to change the configuration of the device and update/modify parts of the firmware/RTOS/apps/services
+
+![[Device Management.png]]
+
+
+## Use Cases
+#UseCase 
+### Casino Breach
+- A casino was breached using an internet connected fish tank
+
+- The tank was connected to a PC with IoT connected devices like thermometer
+
+- The thermometer was the point of entry which then allowed them to scan for vulnerabilities across the network, resulting in 10GB of data being stolen
+
+
+### Mirai DDoS Attack
+- Botnet was created using IoT Devices (Cameras, Printers, Refrigerators, Doorbells, Baby Monitors, etc)
+
+- Hundreds of thousands of devices infected
+
+- DDoS against DYN (DNS service provider)
+	- DNS translates to an IP address to the website name
+
+- Found devices by scanning the internet for devices who have telnet port open, it then runs
+
+- Ran those devices against password "dictionaries" of commonly used and/or default passwords to gain access
+
+- Once elevated permissions were gained on these devices, they were connected to a C2 server
+	- C2 stands for Command and Control
+	- A C2 server commands a Botnet
+
+
+### Mirai Attack: Explained
+- DDoS attack in October 2016 → Target: DNS Provider Dyn
+	- DDoS attack was staged and launched from IoT devices using the Mirai malware
+
+- Mirai was designed for two main purposes:
+	- Find and infect IoT devices to grow the botnet
+	- Participate in DDoS attacks based on commands received by remote Command and Control infrastructure
+
+- Mirai operates in three stages:
+	- Infect the device
+	- Protect itself
+	- Launch attack
+
+
+#### Stage 1: Scanning
+- Scan for IoT devices that are accessible over the internet (mainly CCTV cameras)
+- Primarily scans for ports 22, 23, 5747, etc that are open
+- Can be configured to scan for others
+- Once connected, it brute-forces usernames and passwords to login to the device
+- Use the device to scan networks looking for more IoT devices
+
+![[Mirai Scanning Workflow.png]]
+
+#### Stage 2: Infection
+- Kill other processes running on infected device (SSH, Telnet, HTTP) to prevent owner from gaining remote access to device while infected
+- Note: Rebooting the device can remove the malware, but it can become infected again
+
+![[Mirai Infection Workflow.png]]
+
+#### Stage 3: Launch attack
+- Infected device launches different types of attacks
+- HTTP floods, SYN floods, etc. DDoS based attacks
+
+![[Mirai Attack Workflow.png]]
+
+
+### OMG: A new variant of Mirai
+- A modified version of Mirai
+	- Capable of DDoS attacks
+	- As well as setting up proxy servers on vulnerable IoT devices
+
+- With this development, more and more Mirai-based bots are going to emerge with new ways of monetization
+
+---
