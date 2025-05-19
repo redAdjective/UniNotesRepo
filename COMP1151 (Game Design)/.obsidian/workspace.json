@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96c2723268380c1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Overview"
-            }
-          },
-          {
             "id": "f4b0ca3c14c0d89a",
             "type": "leaf",
             "state": {
@@ -41,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SGTA.md",
+                "file": "SGTA/SGTA.md",
                 "mode": "source",
                 "source": false
               },
@@ -50,17 +36,17 @@
             }
           },
           {
-            "id": "2d5b780e6cfe164c",
+            "id": "e6a5c410e2bfacef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 8.md",
+                "file": "SGTA/Week 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 8"
+              "title": "Week 10"
             }
           },
           {
@@ -75,8 +61,7 @@
               "title": "The Art of Game Design"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,28 +228,42 @@
   },
   "active": "871aedfddd6f87f1",
   "lastOpenFiles": [
-    "Slide Deck.png",
+    "Images/Dynanmics.png",
+    "Overview.md",
+    "SGTA/Week 10.md",
+    "Lecture.md",
+    "SGTA/SGTA.md",
+    "SGTA/Week 8.md",
+    "SGTA/Week 6.md",
+    "SGTA/Week 5.md",
+    "SGTA/Week 4.md",
+    "SGTA/Week 3.md",
+    "SGTA/Week 2.md",
+    "SGTA",
+    "New folder",
+    "Images/Vectors are a displacement = Distance and Direction.png",
+    "Images/Vector + Vector = Vector (3).png",
+    "Images/Vector + Vector = Vector (2).png",
+    "Images/Vector + Vector = Vector (1).png",
+    "Images/Vector - Vector = Vector (2).png",
+    "Images/Vector - Vector = Vector (1).png",
+    "Images/Transform Component.png",
+    "Images/The Big Triangle.png",
+    "Images/Slide Deck.png",
+    "Images/Points are positions in space.png",
+    "Images",
     "SGTA.md",
     "Week 8.md",
-    "Lecture.md",
-    "Overview.md",
     "Introduction.md",
     "The Art of Game Design.pdf",
     "Week 2.md",
     "README 1.md",
     "Week 6.md",
-    "Maintaining Flow.png",
-    "Flow.png",
-    "Experiential Learning (1).png",
     "Week 5.md",
-    "Pentagon Player Model.png",
-    "Gender Play and Identity Exploration.png",
     "BrainHex.md",
-    "BrainHex.png",
     "Hardcore vs Casual Player.md",
     "Player-Avatar Relationships.md",
     "Gamer Motivation Model.md",
-    "Gamer Motivation Model.png",
     "Yee's Motivation Types.md",
     "Bartle's Player Types (MUDs).md"
   ]

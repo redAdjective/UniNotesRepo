@@ -939,3 +939,206 @@ How are your players different from you?
 - Horizontal or Vertical
 
 ---
+# Models and Metaphors
+#Models #Metaphors
+## The story so far
+**First:**
+We examined games from a critical theory point of view, examining their cultural and social consequences
+
+**Then:**
+We took a look at games from an essentialist perspective, focusing on what makes them unique as a medium
+
+**Now:**
+Now we bring it all together
+
+
+## Conveyance
+#Conveyance
+- When designing games, we need to consider how the metaphor is conveying the game's system and its dynamics
+
+- To make things easier on ourselves, we can use something called natural mapping
+
+
+## Natural Mapping
+#Natural-Mapping
+- As we play a game, we construct a mental model of how it works, enabling us to think about how to play.
+
+- Our brains already contain many mental models (heuristics, biases, etc) we've developed over time.
+
+- Natural mapping is when we appeal to these pre-existing models to quickly communicate our systems
+
+
+## Mental Models
+#Mental-Model 
+Some existing models which games can draw on:
+- Spatial and Contextual reasoning
+- Physics
+- Social Interaction
+- Game Genre Conventions
+
+
+## Physical Metaphors
+#Physical-Metaphors
+![[Physical Metaphors.png]]
+
+## Genre Conventions
+#Genre-Conventions
+Experienced players develop "natural models" that correspond to genre conventions such as:
+- Platformer physics
+- Important vs Decorative architecture
+- Cover systems
+
+
+## Instructions
+#Instructions
+Many designers attempt to solve communication problems by adding textual instructions
+- This should often be a last resort
+- A good game is designed so that the player knows what to do without reading anything
+- (Okay, Interactive fiction excluded)
+
+
+## Dissonance
+#Dissonance
+It is jarring when a system doesn't match our mental models. For example:
+- Invisible barriers
+- Objects that are heavier/lighter than they appear
+- Objects that make the wrong sound
+- Contextual and cultural considerations
+
+We call this experience dissonance
+
+
+## Contextual Problems
+#Contextual-Problems
+- We need to consider the fact that not all mental models are natural or universal
+
+- Different cultural contexts, player-bases and more will interpret our metaphors differently
+
+- What does a barrel in a video game mean to you?
+
+
+## Narrative
+#Narrative
+- Our metaphor is also expressed through our game's narrative
+
+- This can be a source of dissonance, such as an RPG quest-giver describing a quest as urgent, but in reality, you can take all the time you please.
+
+![[The Big Triangle.png]]
+
+## Problematic Dissonance
+#Problematic-Dissonance
+Sometimes dissonances create problematic meanings, such as:
+- Murdering sex workers in the GTA series
+- Committing war-crimes in military FPS
+
+
+---
+# Games and Meaning
+#Games #Meaning
+## Rhetoric
+#Rhetoric
+The art of persuasion, convincing another of a point of view
+
+## Reasoned Argument
+#Reasoned-Argument
+People who are inactive are almost twice as likely to suffer coronary heart disease, compared to those who get enough exercise
+
+## Narrative
+#Narrative 
+"My father had a desk job since he was 21 and when he was in his early 50s, he had a heart attack, which suddenly and unexpectedly tore him away from his family before he got the chance to see his grandchildren grow up"
+
+## Visual
+#Visual
+Being overweight increases your risk of heart disease
+
+
+## Procedural Rhetoric
+#Procedural-Rhetoric
+The process of persuasion by presenting a working model of a process
+
+Example:
+A simulation of a heart under the long-term influence of different levels of an inactive/sedentary lifestyle.
+
+
+> Games are essentially procedural models or contain lots of mini models and systems that work independently to create meaning
+
+Games make meaning, so the same kind of convincing argument created through systems and models can be made with games as well.
+
+
+## Agency
+#Agency 
+Making the simulation interactive gives the player the experience of agency, understanding the system from within, as decision-making element rather than from without, as na observer
+
+
+## Dynamics
+#Dynamics 
+![[Dynanmics.png]]
+
+## Mechanics
+#Mechanics 
+**Accuracy**
+- How accurately do the mechanics represent the reality
+
+**Effect**
+- How do these simplifications affect the meaning?
+
+**Realism**
+- Are the mechanics realistic or iconic?
+
+**Impact**
+- Are the missing details important, or a distraction?
+
+**Omissions**
+- Are there any important mechanics omitted
+
+
+## Metaphor
+#Metaphors 
+**Interpretation**
+- How does the metaphor establish an interpretation of the system>
+
+**Recognition**
+- How does this facilitate the recognition of particular system dynamics?
+
+**Alteration**
+- How does the representation colour the player's emotional response?
+
+
+## Control
+#Control 
+What means does the player have to influence the system?
+
+What actions are available or unavailable?
+
+
+## Player
+#Players 
+**Role**
+- What role does the player have in the system?
+
+**POV**
+- What point of view does the player identify with?
+
+**Incentives**
+- What incentives does the player have to behave in particular ways?
+
+**Patterns**
+- What patterns of behaviour does the player engage in?
+
+
+## Unintended Meanings
+#Unintended-Meanings
+**Dynamics**
+Complex simulations may have unintended dynamics which don't match reality
+
+**Boundaries**
+Players will explore the boundaries of a simulation and discover meanings that the designer did not intend
+
+**Expectations**
+Players won't always share the experiences which a designer is relying upon to deliver the intended meanings
+
+
+## All games are doing this
+Every game (apart from the most abstract) is presenting itself as a simulation of some reality
+
+There's no such thing as "just a game"

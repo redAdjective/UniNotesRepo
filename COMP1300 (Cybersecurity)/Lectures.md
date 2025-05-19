@@ -220,10 +220,10 @@ Social engineering is the act of manipulating a person to take an action that ma
 ## Social Engineering Methods
 #Methods
 
-- [[Dumpster Diving]]
-- [[Shoulder Surfing]]
-- [[Baiting]]
-- [[Phishing]]
+- ![[Dumpster Diving]]
+- ![[Shoulder Surfing]]
+- ![[Baiting]]
+- ![[Phishing]]
 
 
 ## NIST Framework
@@ -1764,6 +1764,7 @@ Personnel
 
 
 ### Mirai DDoS Attack
+#MiraiBotnet
 - Botnet was created using IoT Devices (Cameras, Printers, Refrigerators, Doorbells, Baby Monitors, etc)
 
 - Hundreds of thousands of devices infected
@@ -1824,3 +1825,152 @@ Personnel
 - With this development, more and more Mirai-based bots are going to emerge with new ways of monetization
 
 ---
+# Panel Members
+#Industry #Panel
+## Tulin Sevgin
+- Social Engineer
+
+**Certification and skills useful for future**
+- Good to have variety
+- Depends on the area of cybersecurity
+- If you are passionate then go for certifications
+- Look at graduate programs
+- Work in different sections of tech
+- Yes to experiences and opportunities
+
+**Keeping up with industry**
+- Staying in touch with surroundings
+
+**Cybersecurity for SMEs**
+- Content online
+
+**Expert Advice**
+- Making sure to have an up to date incident response
+
+## Ed Little
+- Technical
+  
+**How to find the right specialisation without feeling overwhelmed**
+- Generalise first, then see what sticks
+	- Unhealthy to specialise from the very start
+
+**Certification and skills useful for future**
+- See if you can use the knowledge
+- Passion Projects
+
+**Career growth and leadership**
+- Difference between leading and managing
+- Being a manager is a different set of skills
+	- Problems both between client and within team
+
+## Ed Moore
+- Technical
+
+**Certification and skills useful for future**
+- Fresh out of Uni is tricky
+- Smaller certification can have a little value
+	- Shows you're interested
+	- Going for the big certifications are not good for early investment
+- Degrees offer baseline knowledge
+- Networking events are very helpful
+
+**Career growth and leadership**
+- Drive to be in leadership
+	- Soft skills
+	- Good communications
+	- Listening
+
+## Eric Pinkerton
+- Night club doorman/Tarot card reader to Cybersec
+  
+**How to find the right specialisation without feeling overwhelmed**
+- Find something you are curious in
+- Typically stuff you are good at, one that nobody enjoys
+
+**Certification and skills useful for future**
+- Government looking for specialisation courses
+- Certifications become a dirty gateway for keyword matching algorithm for better hiring chances
+- Always learn new things
+- "Will you support my future certifications"
+- Keep moving
+
+**Career growth and Leadership**
+- People are not a technology problem
+- Hiring the right team
+- Building the right team
+
+**Keeping up with industry**
+- https://risky.biz/
+- https://darknetdiaries.com/
+- https://freakonomics.com/podcasts/
+
+**Cybersecurity for SMEs**
+- Hard way: getting hacked
+- Potential customer
+
+**Expert Advice**
+- Good preparation
+	- Often happens when something bad happens
+- Capture the lessons learned and take action
+
+**Experience gain**
+- Networking
+- Asking questions
+- Being interested
+- Don't limit to internships
+
+## Matt
+- Auditor
+
+**How to find the right specialisation without feeling overwhelmed**
+- Don't undersell yourself
+
+**Certification and skills useful for future**
+- Good to get without experience, but it's valuable with experience
+- Find your footing, Udemy
+	- Gain experience
+- Go to many professional stream
+- Networking is not a bad skill
+
+**Keeping up with industry**
+- Listen to podcasts about this
+- cio.com
+- diary of a CEO
+- webinars
+
+**Cybersecurity for SMEs**
+- Getting the owner to see the value
+
+**Expert Advice**
+- Education and training
+- Getting people to see the real value
+
+## Louise Hanna
+**Certification and skills useful for future**
+- Social aspect, understanding what people are asking for
+- CISP covers everything
+
+**Certification and skills useful for future**
+- Look for grad programs
+
+**Career growth and leadership**
+- Not everyone can be a leader
+- If career is plateauing, bait and switch
+
+**Keeping up with industry**
+- LinkedIn
+
+**Cybersecurity for SMEs**
+- Education
+	- What is their risks
+- Risks with AI
+	- Mitigate
+
+**Experience gain**
+- Ask questions
+- Connect with LinkedIn
+- Ask for mentoring
+- Communication and interview skills for graduate programs
+
+## Yimeng
+- Change is okay
