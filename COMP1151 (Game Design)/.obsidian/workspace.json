@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SGTA/Week 10.md",
+                "file": "SGTA/Week 12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 10"
+              "title": "Week 12"
             }
           },
           {
@@ -61,7 +61,8 @@
               "title": "The Art of Game Design"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,13 +227,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "871aedfddd6f87f1",
+  "active": "e6a5c410e2bfacef",
   "lastOpenFiles": [
-    "Images/Dynanmics.png",
-    "Overview.md",
+    "SGTA/SGTA.md",
+    "SGTA/Week 12.md",
     "SGTA/Week 10.md",
     "Lecture.md",
-    "SGTA/SGTA.md",
+    "Images/Game Definitions.jpg",
+    "Images/Dynanmics.png",
+    "Overview.md",
     "SGTA/Week 8.md",
     "SGTA/Week 6.md",
     "SGTA/Week 5.md",
@@ -249,8 +252,6 @@
     "Images/Vector - Vector = Vector (1).png",
     "Images/Transform Component.png",
     "Images/The Big Triangle.png",
-    "Images/Slide Deck.png",
-    "Images/Points are positions in space.png",
     "Images",
     "SGTA.md",
     "Week 8.md",

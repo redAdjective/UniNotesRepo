@@ -1142,3 +1142,16 @@ Players won't always share the experiences which a designer is relying upon to d
 Every game (apart from the most abstract) is presenting itself as a simulation of some reality
 
 There's no such thing as "just a game"
+
+---
+# Serious Games
+#SeriousGames
+## What is a game?
+- Interactive
+- Has rules
+
+## What is a Serious game?
+Games designed specifically for purposes other than or in addition to pure entertainment.
+
+![[Game Definitions.jpg]]
+
