@@ -31,7 +31,6 @@ Present in antiviolent video game arguments
 
 Based on an 'effects' understanding of media usage
 
-
 ### Murder Simulators
 #Murder-Simulators
 
