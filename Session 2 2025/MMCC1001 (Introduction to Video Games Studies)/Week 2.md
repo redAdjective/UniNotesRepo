@@ -134,3 +134,82 @@ We are not asking you to pick the "best one"
 The important thing is to recognise and reflect on, your base assumptions when talking about games. What features are you including, what are you marginalizing?
 
 The act of defining/discursively constructing a video games has massive political, cultural and technological impact.
+
+
+## Conclusion
+#Conclusion 
+
+How we understand (discursively construct) games has a massive impact on:
+- What we buy
+- How we play/What we expect of the game
+- How we can theorize the game
+- How we classify games
+
+---
+# Tutorial
+#Discourse #Murder 
+## Discourse
+#Discourse 
+- Lenses
+- Body of knowledge
+- Way to describe/discuss something
+- Controversial topics
+- Influence
+- Competing
+- Language
+	- Assumptions
+	- Ideologies
+- Critique of a topic
+- We can subscribe to discourses without realising
+
+## Group Task 1/2
+#Group-Task
+
+**Discuss the differences between 3 types of discourse around games:**
+- Popular Discourse (How one might chat to ones friends about games)
+- Journalistic Discourse (What a review might cover)
+- Academic Discourse (There are many types of academic discourse, but here we are just talking generally)
+
+**Answer the following:**
+- What outcome is a person using this discourse trying to achieve?
+- What types of evidence may they use?
+- What types of language do they use?
+- What aspects of games do they focus upon?
+
+**Pick a game everyone in the group is (at least somewhat) familiar with and write a one sentence discussion of the game for each discourse.**
+
+```txt
+Game picked: Get over it
+
+Popular Discourse: 
+- Getting friends to play it
+- Casual tone
+> Dude you should check out this game
+
+Journalistic Discourse:
+- Content creators reviewing the game
+- Semi-Formal tone
+> I bought it for shits and giggles, but this seemingly simple game had me hooked on it for almost 150 hours now.
+
+Academic Discourse: 
+- Problem solving
+- How it was built
+- Genre created around
+- Formal tone
+> Despite the game's simplistic approach to its goal of getting to the top, the developers have created an environment of interesting mechanics that influence the human psyce.
+```
+
+
+## Group Task 2/2
+**In your own words explain what Sotamaa means by the following:**
+- Material Artefact
+	Material artefacts refer to the physical representation of games, such as dice, joysticks, etc.
+
+- Software Artefact
+	Software artefacts refer to software involved in the creation of games, how the program communicates with the system 
+
+- Cultural Artefact
+	Cultural artefacts discuss the significance of a game at any given period in time. Developers use their games in order to send a message or to raise awareness on certain events.
+
+**For each of these artefacts types give one example of the kind of questions/topics one could explore when applying them to video games**
+
