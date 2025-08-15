@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.test.config": {},
+        "config": "test",
+        "sourcePaths": ["test"],
+        "outputPath": "bin_test",
+        "referencedLibraries": [
+            "lib/*.jar"
+        ]
+    }
+}

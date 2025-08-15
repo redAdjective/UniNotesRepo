@@ -48,9 +48,18 @@
               "icon": "lucide-file",
               "title": "Week 3"
             }
+          },
+          {
+            "id": "b055f6e994955c30",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,10 +224,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8225a493da4b8212",
+  "active": "3ce62a33e19b09f7",
   "lastOpenFiles": [
-    "Overview.md",
     "Week 3.md",
+    "Overview.md",
     "Week 2.md",
     "Week 1.md"
   ]
