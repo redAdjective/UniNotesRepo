@@ -86,7 +86,7 @@ The entertainment for discourse can be seen in the current Australian classifica
 
 Understanding of video games as similar to sports, children's play, toys, board games, card games and other leisure activities.
 
-Argues games are about fun and fantast and are separate from real-life
+Argues games are about fun and fantasy and are separate from real-life
 
 Reflected in game designers and games journalists discourses privileging gameplay mechanics ahead of other concerns such as narrative.
 

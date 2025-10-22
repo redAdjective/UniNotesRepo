@@ -88,3 +88,27 @@ Bailes and Baerg see profound impacts and argue games are a neoliberal form
 # Tutorial
 ## Group Task
 #Group-Task 
+
+**According to Bailes, how do video games reflect and challenge neoliberalist values?**
+```txt
+Cost/Reward Analysis - Using real money for game items, Player choices in game
+
+Individual Choice - Rulesets/Boundaries
+
+Free Market Economics - Battlepass, DLCs, Micro transactions
+```
+
+
+**Pick one of Bailes' ideological positions: Hedonism, Cynical Self-Interest, Escapist Defeatism and Reformism. Think of a game that you think this term describes. Explain how this game embodies this ideological position.**
+```txt
+Game: Fallout
+
+Ideology: Escapist Defeatism
+
+Endless corruption, no interest in renewable resources.
+```
+
+**Can you think of any other ways games embody or challenge neoliberalism/contemporary capitalism**
+```txt
+Pokémon is a series built on Cynical Self-Interest as the players are driven into a cycle of "Catch, Battle, Upgrade". Preventing player agency to do anything else other than the cycle.
+```
