@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "0a80cba3b9a19c6b",
+    "id": "276f57705e7d2a7c",
     "type": "split",
     "children": [
       {
-        "id": "23571e4423e24ec1",
+        "id": "f3e7fce296cb51a7",
         "type": "tabs",
         "children": [
           {
-            "id": "450fc42f6940e1f9",
+            "id": "2966696c95f55543",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,49 +22,36 @@
             }
           },
           {
-            "id": "e4e0f8a69b2846f5",
+            "id": "a0bc3eaecead0b67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2.md",
+                "file": "Week 1 ( Intro + Principles of Game Design).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 2"
-            }
-          },
-          {
-            "id": "cb936510ae035cb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 1"
+              "title": "Week 1 ( Intro + Principles of Game Design)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "512fae1514a84eb6",
+    "id": "820dfdb3378c72be",
     "type": "split",
     "children": [
       {
-        "id": "2b8894e94dc5c7fb",
+        "id": "8d10204ef65ce0f7",
         "type": "tabs",
+        "dimension": 45.92901878914406,
         "children": [
           {
-            "id": "d00a33017d14dba8",
+            "id": "733326b8cf103873",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,7 +68,7 @@
             }
           },
           {
-            "id": "83cc84699bae8d4b",
+            "id": "6372172e008681f3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,7 +78,7 @@
             }
           },
           {
-            "id": "4448b19235b7aa60",
+            "id": "630ae80fcf186072",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -104,11 +91,12 @@
         "currentTab": 2
       },
       {
-        "id": "0722b5e4b8596194",
+        "id": "f6d4e6a63e8be743",
         "type": "tabs",
+        "dimension": 54.07098121085594,
         "children": [
           {
-            "id": "49738fcae3dfa4fa",
+            "id": "c36013331ef339d4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -124,23 +112,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380
+    "width": 300
   },
   "right": {
-    "id": "aae6bb471e6e44f6",
+    "id": "4718d69cd179c9ad",
     "type": "split",
     "children": [
       {
-        "id": "d05c0b204bf14ff4",
+        "id": "1b1ce6894ca8d05b",
         "type": "tabs",
         "children": [
           {
-            "id": "bb6cd218fcf434e2",
+            "id": "43de1e35adf52a18",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,25 +137,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Week 1"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "a36c59ce2ae5e4cb",
+            "id": "5200b1647560a5ab",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Week 1"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "6fa0ab4fae41415c",
+            "id": "f03d29cf2a23e05d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -183,18 +169,31 @@
             }
           },
           {
-            "id": "97772a0b39531c40",
+            "id": "edcf940668a62d84",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6356e3fb9a0fe8f4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Week 1"
+              "title": "Outline"
             }
           }
         ]
@@ -206,20 +205,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb936510ae035cb4",
+  "active": "a0bc3eaecead0b67",
   "lastOpenFiles": [
-    "Week 2.md",
-    "Overview.md",
-    "Week 1.md"
+    "Week 1 (Principles of Game Design).md",
+    "Week 1 ( Intro + Principles of Game Design).md",
+    "Overview.md"
   ]
 }

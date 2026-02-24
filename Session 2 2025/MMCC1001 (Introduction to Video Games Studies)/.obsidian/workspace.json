@@ -6,6 +6,7 @@
       {
         "id": "1c117a7d18ddc661",
         "type": "tabs",
+        "dimension": 47.59100642398287,
         "children": [
           {
             "id": "3ce62a33e19b09f7",
@@ -55,6 +56,7 @@
       {
         "id": "90a88aa4f6a199e2",
         "type": "tabs",
+        "dimension": 52.40899357601713,
         "children": [
           {
             "id": "23a19455165bdc10",
@@ -236,14 +238,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "23a19455165bdc10",
+  "active": "29d0f1a1dadfda60",
   "lastOpenFiles": [
+    "Week 10.md",
     "Week 5.md",
     "Week 3.md",
     "Week 4.md",
     "Week 7.md",
     "Week 8.md",
-    "Week 10.md",
     "Week 6.md",
     "Week 9.md",
     "Week 2.md",
