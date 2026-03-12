@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Week 1 (Is there a formula for Success)"
             }
+          },
+          {
+            "id": "1a83593632da3ef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 2 (SDLC vs Agile).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 2 (SDLC vs Agile)"
+            }
+          },
+          {
+            "id": "b2d6fcb22f54d8d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 3 (The Good, the Bad and the Unethical.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 3 (The Good, the Bad and the Unethical"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 365
   },
   "right": {
     "id": "115838e1fd703c3c",
@@ -215,9 +243,11 @@
   },
   "active": "6a159d84ddebb255",
   "lastOpenFiles": [
+    "Week 2 (SDLC vs Agile).md",
+    "Week 3 (The Good, the Bad and the Unethical.md",
+    "Overview.md",
     "Week 1 (Is there a formula for Success).md",
     "Images/Week 1 Agile Scrum.jpg",
-    "Images",
-    "Overview.md"
+    "Images"
   ]
 }
