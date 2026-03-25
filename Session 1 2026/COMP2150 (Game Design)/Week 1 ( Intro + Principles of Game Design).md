@@ -177,7 +177,34 @@ Build a repertoire of system design patterns to use in your work:
 ---
 # SGTA
 #SGTA
+## The Applause Game
+#The-Applause-Game
+- Confusion: Challenge
+- Camaraderie: Fellowship
+- Intellectual: Challenge
+- Communication: Fellowship
+- Discouraged: Drama
 
+## Mechanics
+#Mechanics
+- Rules
+- Game Objects
+- Players
+- Objective Existence
+- Parameters and Constraints
+
+## Dynamics
+#Dynamics
+Patterns of play that result from the rules/mechanics of the game
+
+### How does it result from the mechanics?
+Dependency on the player to be reactive and accurate
+
+### How does it affect the experience?
+Unofficial rule reduces the play area
+
+### Does the dynamic occur in other games?
+Prop hunts, games in general with reward x punishment
 
 ---
 # Practical

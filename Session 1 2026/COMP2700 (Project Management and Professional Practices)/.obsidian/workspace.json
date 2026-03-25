@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,12 +241,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a83593632da3ef0",
+  "active": "6a159d84ddebb255",
   "lastOpenFiles": [
     "Week 3 (The Good, the Bad and the Unethical.md",
     "Week 2 (SDLC vs Agile).md",
-    "Overview.md",
     "Week 1 (Is there a formula for Success).md",
+    "Overview.md",
     "Images/Week 1 Agile Scrum.jpg",
     "Images"
   ]
